@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="9946" started-at="2017-11-29T07:52:05Z" finished-at="2017-11-29T07:52:15Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="9946" started-at="2017-11-29T07:52:05Z" finished-at="2017-11-29T07:52:15Z">
+      <class name="com.selenium.Launch">
+        <test-method status="PASS" signature="page()[pri:0, instance:com.selenium.Launch@47ef968d]" name="page" duration-ms="9919" started-at="2017-11-29T13:22:05Z" finished-at="2017-11-29T13:22:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- page -->
+      </class> <!-- com.selenium.Launch -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
